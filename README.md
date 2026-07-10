@@ -1,2 +1,0 @@
-# estudo
-anotações de estudo
