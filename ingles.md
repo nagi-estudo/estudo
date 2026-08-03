@@ -1,1 +1,2 @@
-Trait - característica
+Trait - Característica
+Greedy - Ambicioso
