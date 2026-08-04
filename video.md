@@ -1,5 +1,7 @@
 # Resumo de video que vi
 
+https://github.com/mattpocock/skills
+
 ## Como AI usa teu computador(Linux)
 
 O terminal é uma interface poderosa para interagir com o sistema operacional, essencial para desenvolvedores, já que ferramentas de IA e servidores (majoritariamente Linux/Unix) operam por meio desses comandos nativos. A manipulação de arquivos e pastas pode ser realizada inteiramente via linha de comando sem necessidade de interface gráfica.
